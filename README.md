@@ -2,7 +2,7 @@ About My Github 😀😃😄
 ---
 
 <!-- ![zhangzhen's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YUCHEN&layout=compact) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUCHEN&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUCHEN&count_private=true)
 
 
 ## ⚡ Technologies
