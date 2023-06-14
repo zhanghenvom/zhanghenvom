@@ -1,6 +1,6 @@
 # About My Github 😀😃😄
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUCHEN&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghenvom&count_private=true)
 
 ## ⚡ Technologies
 
