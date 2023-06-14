@@ -17,6 +17,7 @@ About My Github 😀😃😄
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-square&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-square&logo=git&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-square&logo=jquery&logoColor=white)
 
 ## 👩‍💻 IDE
 ![WebStorm](https://img.shields.io/badge/WebStorm-66595C?style=for-the-square&logo=WebStorm&logoColor=white)
