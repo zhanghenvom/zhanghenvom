@@ -1,17 +1,8 @@
-# About My Github 😀😃😄
-<div align="center">
-  <a href="https://nkupp.com" target="_blank" style="display: inline-block;">
-    <img
-        src="http://profile-counter.glitch.me/nicolasking007/count.svg"
-        align="center"
-    />
-    <img
+# About My Github 😀😃😄  <img
         src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png" width="60" height="60"
         align="center"
     />
-  </a>
-</div> 
-
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghenvom&count_private=true)
 
 ## ⚡ Technologies
