@@ -1,4 +1,7 @@
 # About My Github 😀😃😄
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5894F7&width=490&height=70&lines=Welcome+to+Nicolasking007+Github+Homepage;%E5%B1%B1%E4%B8%8D%E5%90%91%E6%88%91%E8%B5%B0%E6%9D%A5%EF%BC%8C%E6%88%91%E4%BE%BF%E5%90%91%E5%B1%B1%E8%B5%B0%E5%8E%BB;%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%9B%B0%E5%9D%9B++" width="455" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif" width="60" height="60" align="right"/> 
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghenvom&count_private=true)
 
